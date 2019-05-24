@@ -31,4 +31,4 @@ The TimeSeriesConnector uses the CommunityCommons’ DateTimeToLong function in 
 # Installation
 * Download the TimeSeries Connector from the Appstore
 * Download the CommunityCommons from the Appstore
-* Read the documentation to configure the connector, which can be found at [TimeSeries Connector Documenation](http://connector.timeseries.nl/documentation.html)
+* Read the documentation to configure the connector, which can be found at [TimeSeries Connector Documenation](http://connector.timeseries.com/documentation.html)
